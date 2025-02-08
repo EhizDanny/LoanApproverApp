@@ -1,5 +1,4 @@
 
-```markdown
 # Loan Approval Prediction
 
 ## Overview
